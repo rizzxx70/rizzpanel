@@ -32,6 +32,3 @@
 * Gunakan dengan bijak. 
 * Script ini memodifikasi settingan sistem Android (Non-Permanent), bukan file internal game. 
 * **SAFE & ANTI-BAN.**
-
----
-**Developed by R3X | Cyber Activity Jawa Tengah**
